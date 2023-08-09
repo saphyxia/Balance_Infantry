@@ -22,8 +22,7 @@ Balance Infantry
   ├───Chassis : 平衡步兵底盘代码
   ├───Gimbal : 平衡步兵云台代码
   ├───balancce.mat : Matlab数据文件，记录上一次计算的权重矩阵和状态反馈控制器等
-  ├───[BalanceInfantry_LQR.md](./BalanceInfantry_LQR.md) ：平衡步兵的状态空间方程及权重矩阵，由MATLAB实现
-  ├───[MATLAB.md](./MATLAB.md) ：简易倒立摆的状态空间方程（一次失败的尝试），由MATLAB实现
-  └───[Python.md](./Python.md) ：简易倒立摆的状态空间方程（一次无疾而终的尝试），由Python实现
-
+  ├───BalanceInfantry_LQR.md ：平衡步兵的状态空间方程及权重矩阵，由MATLAB实现
+  ├───MATLAB.md] ：简易倒立摆的状态空间方程（一次失败的尝试），由MATLAB实现
+  └───Python.md ：简易倒立摆的状态空间方程（一次无疾而终的尝试），由Python实现
 ```
