@@ -1,6 +1,8 @@
 # Balance_Infantry
 > 2023  Balance Infantry USTL COD
 
+![](./pic/balance.jpg)
+
 ## 依赖工具及软硬件环境
 
 依赖工具：Keil5,VsCode
