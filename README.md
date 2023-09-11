@@ -1,7 +1,13 @@
 # Balance_Infantry
 > 2023  Balance Infantry USTL COD
 
-![balance](./pic/balance.JPG)
+一代
+
+![balance1](./pic/balance1.JPG)
+
+二代
+
+![balance2](./pic/balance2.JPG)
 
 ## 依赖工具及软硬件环境
 
