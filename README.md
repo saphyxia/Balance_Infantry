@@ -37,4 +37,5 @@ Balance Infantry
 
 ## 特别鸣谢
 
-广东工业大学DynamicX战队[rm_controllers](https://github.com/rm-controls/rm_controllers)开源
+1. 广东工业大学DynamicX战队[rm_controllers](https://github.com/rm-controls/rm_controllers)开源
+2. 南京航空航天大学长空御风战队平衡步兵开源
