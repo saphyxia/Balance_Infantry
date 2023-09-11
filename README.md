@@ -34,3 +34,7 @@ Balance Infantry
   ├───MATLAB.md : 简易倒立摆的状态空间方程，由MATLAB实现
   └───Python.md : 简易倒立摆的状态空间方程，由Python实现
 ```
+
+## 特别鸣谢
+
+广东工业大学DynamicX战队[rm_controllers](https://github.com/rm-controls/rm_controllers)开源
