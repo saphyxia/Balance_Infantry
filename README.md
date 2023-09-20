@@ -3,11 +3,11 @@
 
 一代
 
-![balance1](./pic/balance1.JPG)
+![balance1](./assets/picture/balance1.JPG)
 
 二代
 
-![balance2](./pic/balance2.JPG)
+![balance2](./assets/picture/balance2.JPG)
 
 ## 依赖工具及软硬件环境
 
@@ -34,6 +34,8 @@ Balance Infantry
   ├───MATLAB.md : 简易倒立摆的状态空间方程，由MATLAB实现
   └───Python.md : 简易倒立摆的状态空间方程，由Python实现
 ```
+
+测试视频见[./assets/test_video](./assets/test_video)
 
 ## 特别鸣谢
 
